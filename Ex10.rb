@@ -1,6 +1,6 @@
-tabby_cat = "\tI'm tabbed in."
+tabby_cat = "\tI'm tab\abed in."
 persian_cat = "I'm split\non a line."
-backslash_cat = "I'm \| a \\ cat."
+backslash_cat = "I'm \\ a \\ cat."
 
 
 # \t* adds a tabbed * like a bullet point
@@ -15,3 +15,6 @@ puts tabby_cat
 puts persian_cat
 puts backslash_cat
 puts fat_cat
+
+puts '\n #{tabby_cat} + #{persian_cat}'
+puts "\n #{tabby_cat} #{persian_cat}"
