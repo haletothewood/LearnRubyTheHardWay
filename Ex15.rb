@@ -2,7 +2,8 @@
 filename = ARGV.first
 
 # opening the file and assigning it's contents to a variable
-txt = open(filename)
+txt = File.open (filename)
+# txt = open(filename) also works
 
 # calling the .read command on our variable with no parameters
 puts "Here's your file #{filename}:"
