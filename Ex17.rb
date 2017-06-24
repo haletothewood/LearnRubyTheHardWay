@@ -5,10 +5,8 @@ from_file, to_file = ARGV
 
 puts "Copying from the #{from_file} to the #{to_file}"
 
-# we could do these two on line one, how?
-in_file = open(from_file)
 # We've opened up the file and this next line adds the contents to a variable
-indata = in_file.read
+in_file = open(from_file); indata = in_file.read
 
 puts "The input file is #{indata.length} bytes long."
 
