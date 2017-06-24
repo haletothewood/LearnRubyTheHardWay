@@ -1,7 +1,10 @@
-#  this is one like your scripts with ARGV
+# this is one like your scripts with ARGV
+# I've made it so that each argument is passed into a new variable then printed in a string 
 def print_two(*args)
-	arg1, arg2, = args
-	puts "arg1: #{arg1}, arg2: #{arg2}"
+	args.each do |arg|
+		print "#{arg} "
+	end
+	print "\n"
 end
 
 # OK, that *args is actually pointless, we can just do this
