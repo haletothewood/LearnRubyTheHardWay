@@ -1,4 +1,4 @@
-# LearnRubyTheHardWay
+# Learn Ruby The Hard Way
 A place for all the exercises from the Zed A. Shaw book: "Learn Ruby the Hard Way" Third Edition
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/514%2BuJSdhhL._SY344_BO1,204,203,200_.jpg" width=150>](https://www.amazon.co.uk/Learn-Ruby-Hard-Way-Computational/dp/032188499X)
