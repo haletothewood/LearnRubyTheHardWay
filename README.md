@@ -24,4 +24,7 @@ Ex18.&nbsp;&nbsp;&nbsp;&nbsp;Names, Variables, Codes, Functions\
 Ex19.&nbsp;&nbsp;&nbsp;&nbsp;Functions and Variables\
 Ex20.&nbsp;&nbsp;&nbsp;&nbsp;Functions and Files\
 Ex21.&nbsp;&nbsp;&nbsp;&nbsp;Functions Can Return Something\
-Ex24.&nbsp;&nbsp;&nbsp;&nbsp;More Practice
+Ex22.&nbsp;&nbsp;&nbsp;&nbsp;Self-Led Research on Ruby Code\
+Ex23.&nbsp;&nbsp;&nbsp;&nbsp;Self-Led Research on Command Prompt\
+Ex24.&nbsp;&nbsp;&nbsp;&nbsp;More Practice\
+Ex25.&nbsp;&nbsp;&nbsp;&nbsp;Even More Practice
