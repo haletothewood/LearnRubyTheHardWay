@@ -32,4 +32,5 @@ Ex26.&nbsp;&nbsp;&nbsp;&nbsp;Congratulations, Take a Test!\
 Ex27.&nbsp;&nbsp;&nbsp;&nbsp;Memorizing Logic\
 Ex28.&nbsp;&nbsp;&nbsp;&nbsp;Boolean Practice\
 Ex29.&nbsp;&nbsp;&nbsp;&nbsp;What If\
-Ex30.&nbsp;&nbsp;&nbsp;&nbsp;Else and If
+Ex30.&nbsp;&nbsp;&nbsp;&nbsp;Else and If\
+Ex31.&nbsp;&nbsp;&nbsp;&nbsp;Making Decisions
