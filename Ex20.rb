@@ -28,10 +28,7 @@ rewind(current_file)
 puts "Let's print three lines:"
 
 current_line = 1
-print_a_line(current_line, current_file)
-
-current_line = current_line + 1
-print_a_line(current_line, current_file)
-
-current_line = current_line + 1
-print_a_line(current_line, current_file)
+until current_line > 3
+	print_a_line(current_line, current_file)
+current_line += 1
+end
