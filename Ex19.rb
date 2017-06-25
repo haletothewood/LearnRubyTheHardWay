@@ -28,7 +28,7 @@ def crackers_eaten
 	num = gets.chomp
 	puts "#{num} crackers have been eaten."
 	crackers_left = @amount_of_crackers - num.to_i
-	puts "That leaves us with #{crackers_left} left."
+	puts "That leaves us with #{crackers_left}."
 end
 
 crackers_eaten
