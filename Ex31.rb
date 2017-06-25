@@ -26,7 +26,7 @@ if choice == '1'
 
 elsif choice == '2'
 	puts "The man kinda shrugs and the light fades until your eyes adjust"
-	puts "to the darkness. You realise that you're upside down dangling over"#{
+	puts "to the darkness. You realise that you're upside down dangling over"
 	puts "a pit of broken eggshells. A cracking subplot ensues but you're"
 	puts "rather flippent about it. The man returns with a crumpet and says"
 	puts "'Buttered, or not buttered?"
