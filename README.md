@@ -27,4 +27,6 @@ Ex21.&nbsp;&nbsp;&nbsp;&nbsp;Functions Can Return Something\
 Ex22.&nbsp;&nbsp;&nbsp;&nbsp;Self-Led Research on Ruby Code\
 Ex23.&nbsp;&nbsp;&nbsp;&nbsp;Self-Led Research on Command Prompt\
 Ex24.&nbsp;&nbsp;&nbsp;&nbsp;More Practice\
-Ex25.&nbsp;&nbsp;&nbsp;&nbsp;Even More Practice and IRB
+Ex25.&nbsp;&nbsp;&nbsp;&nbsp;Even More Practice and IRB\
+Ex26.&nbsp;&nbsp;&nbsp;&nbsp;Congratulations, Take a Test!\
+Ex27.&nbsp;&nbsp;&nbsp;&nbsp;Memorizing Logic
