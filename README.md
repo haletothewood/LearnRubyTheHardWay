@@ -33,4 +33,6 @@ Ex27.&nbsp;&nbsp;&nbsp;&nbsp;Memorizing Logic\
 Ex28.&nbsp;&nbsp;&nbsp;&nbsp;Boolean Practice\
 Ex29.&nbsp;&nbsp;&nbsp;&nbsp;What If\
 Ex30.&nbsp;&nbsp;&nbsp;&nbsp;Else and If\
-Ex31.&nbsp;&nbsp;&nbsp;&nbsp;Making Decisions
+Ex31.&nbsp;&nbsp;&nbsp;&nbsp;Making Decisions\
+Ex32.&nbsp;&nbsp;&nbsp;&nbsp;For Loops\
+Ex33.&nbsp;&nbsp;&nbsp;&nbsp;While Loops
