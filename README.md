@@ -35,4 +35,9 @@ Ex29.&nbsp;&nbsp;&nbsp;&nbsp;What If\
 Ex30.&nbsp;&nbsp;&nbsp;&nbsp;Else and If\
 Ex31.&nbsp;&nbsp;&nbsp;&nbsp;Making Decisions\
 Ex32.&nbsp;&nbsp;&nbsp;&nbsp;For Loops\
-Ex33.&nbsp;&nbsp;&nbsp;&nbsp;While Loops
+Ex33.&nbsp;&nbsp;&nbsp;&nbsp;While Loops\
+Ex34.&nbsp;&nbsp;&nbsp;&nbsp;Accessing Elements of Arrays\
+Ex35.&nbsp;&nbsp;&nbsp;&nbsp;Branches and Functions\
+Ex36.&nbsp;&nbsp;&nbsp;&nbsp;Designing and Debuggin\
+Ex37.&nbsp;&nbsp;&nbsp;&nbsp;Symbol Review\
+Ex38.&nbsp;&nbsp;&nbsp;&nbsp;Doing Things To Arrays
