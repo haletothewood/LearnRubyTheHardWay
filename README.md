@@ -40,4 +40,5 @@ Ex34.&nbsp;&nbsp;&nbsp;&nbsp;Accessing Elements of Arrays\
 Ex35.&nbsp;&nbsp;&nbsp;&nbsp;Branches and Functions\
 Ex36.&nbsp;&nbsp;&nbsp;&nbsp;Designing and Debuggin\
 Ex37.&nbsp;&nbsp;&nbsp;&nbsp;Symbol Review\
-Ex38.&nbsp;&nbsp;&nbsp;&nbsp;Doing Things To Arrays
+Ex38.&nbsp;&nbsp;&nbsp;&nbsp;Doing Things To Arrays\
+Ex39.&nbsp;&nbsp;&nbsp;&nbsp;Hashes. Oh Lovely Hashes
